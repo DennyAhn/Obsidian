@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "0e1ad7e018984c23",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5ffa6ceb3edc8f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6098e463b21e5fcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wed/API.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d206836ee8768ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating System/Chapter 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7d1bb6f7d159aaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DB/DBMS.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6089e9db76c94299",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e70ded446911f27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5102a1d824c36acd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b2b570d53c54413b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"DB/\" ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "80243311e24a9b52",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "300e0ef0dbcf7357",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bf895e623846a95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f707a430fb32da00",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Operating System/Chapter 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9dfc8429b0596a15",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Operating System/Chapter 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d9687ea3f5f8229b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4fc360a0aa802987",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Operating System/Chapter 1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "githobs:Manage a github issue": false
+    }
+  },
+  "active": "b2b570d53c54413b",
+  "lastOpenFiles": [
+    "Network/Chapter 1. Introduction.md",
+    "Operating System/Chapter 1.md",
+    "Operating System",
+    "DB/DB(1).md",
+    "Network",
+    "DB/DBMS.md",
+    "DB/쿼리.md",
+    "객체.md",
+    "Wed/API.md",
+    "Road Map/Front-end.md",
+    "Wed/반응 속도 테스트 사이트.md",
+    "Road Map/Back-end.md",
+    "DB",
+    "FILE/frontend.pdf",
+    "FILE/backend.pdf",
+    "JSON.md",
+    "Wed API.md",
+    "Method.md",
+    "Wed/사이트+/JS 메뉴얼.md",
+    "HTTP.md",
+    "Wed/사이트+/HTTP.md",
+    "XML.md",
+    "FILE/Pasted image 20240318161237.png",
+    "Wed/사이트+/프로그램 선정.md",
+    "Wed/사이트+/아키텍처.md",
+    "Wed/사이트+",
+    "git-hud",
+    "FILE/Pasted image 20240311193749.png",
+    "Road Map",
+    "Wed",
+    "FILE"
+  ]
+}
